@@ -4,4 +4,6 @@ Project Team Members:
 
 Bryce
 
-Some change
+Some changes 
+
+Made changes and reviewed by Sami. 
