@@ -3,7 +3,16 @@
 
 
 
+Project Team Members: 
+
+bryce-branch
+Bryce
+
+Some changes 
+
+Made changes and reviewed by Sami. 
 
 Some change
 
 Corrected changes made by Bryce
+main
