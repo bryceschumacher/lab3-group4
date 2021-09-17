@@ -4,6 +4,8 @@
 
 
 Project Team Members: 
+Lil-Bites
+Avery Yeats
 
 bryce-branch
 Bryce
